@@ -1,0 +1,5 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+deep_sort_realtime

@@ -17,7 +17,11 @@ This project aims to develop a real-time prediction and alert system that analyz
 - Support for simultaneous processing of 6 sector video feeds via a Gradio web interface.
 
 ---
+## Demo 
 
+Demo link:  https://huggingface.co/spaces/nikisded/LaunchHacks
+
+yt video link: https://github.com/stargalax/LaunchHacks-IV
 ## Installation
 
 1. Clone the repository:
